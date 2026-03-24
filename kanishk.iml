@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/7)LinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8)SortingAlgorithms" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/8)LinearSearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9)Binary search" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
