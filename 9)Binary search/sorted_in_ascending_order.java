@@ -1,4 +1,4 @@
-public class binary {
+public class sorted_in_ascending_order {
     public static void main(String[] args) {
     int[] arr = {1,3,56,87,98, 123, 324};
     int target = 123;
