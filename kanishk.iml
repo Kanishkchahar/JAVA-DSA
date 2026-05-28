@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/8)LinearSearch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/9)Binary search" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Bubble sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10)Sorting Algorithm" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
