@@ -10,12 +10,12 @@ public class SelectionSort {
         for(int i=0;i<arr.length;i++){
             // find max and swap with correct index
             int last = arr.length -i -1;
-            int max = maxelement(arr,0,last);
-            swaptwoindex(arr,max,last);
+            int max = maxElemenIndext(arr,0,last);
+            swapTwoIndex(arr,max,last);
         }
     }
 
-    static int maxelement(int[] arr , int start, int end){
+    static int maxElemenIndext(int[] arr , int start, int end){
         int max = start;
         for(int i=start;i<=end;i++){
             if(arr[i]>arr[max]){
@@ -25,7 +25,7 @@ public class SelectionSort {
         return max;
     }
 
-    static void swaptwoindex(int[] arr , int first, int second){
+    static void swapTwoIndex(int[] arr , int first, int second){
         int  temp = arr[first];
         arr[first] = arr[second];
         arr[second] = temp;
